@@ -3,7 +3,7 @@
 2. Unzip the zipped files in to root dir and replace them as dirs with the same names.
 
 ##### Unzip the following zip files to replace themself as subdirs:
-1: ./tiny-cuda-nn/upzip .github.zip
-2: ./tiny-cuda-nn/dependencies/cutlass.zip
-3: ./tiny-cuda-nn/dependencies/fmt.zip
+1: ./tiny-cuda-nn/upzip .github.zip   
+2: ./tiny-cuda-nn/dependencies/cutlass.zip   
+3: ./tiny-cuda-nn/dependencies/fmt.zip   
    
